@@ -2,6 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spike.SwitchStatementHandlesSomeKnownEnumValuesWithDefault", "Spike.SwitchStatementHandlesSomeKnownEnumValuesWithDefault\Spike.SwitchStatementHandlesSomeKnownEnumValuesWithDefault.csproj", "{59E0D82B-49CC-482F-9059-C7FA7B3D15AB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Solution Files", "0 - Solution Files", "{874D6783-971A-4D18-B76A-F8F6FDC984B4}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

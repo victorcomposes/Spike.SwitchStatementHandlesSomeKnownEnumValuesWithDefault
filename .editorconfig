@@ -1,0 +1,13 @@
+﻿root = true
+
+[*]
+
+[*.cs]
+# IDE0010: Add missing cases
+# dotnet_diagnostic.IDE0010.severity = error
+
+# Empty switch block
+dotnet_diagnostic.CS1522.severity = error
+
+# JetBrains Rider custom properties for code inspections
+resharper_switch_expression_handles_some_known_enum_values_with_exception_in_default_highlighting = error
